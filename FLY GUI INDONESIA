@@ -137,7 +137,7 @@ nowe = false
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "TERBANG ID";
-	Text = "DIBUAT XNEO                  DIEDIT YOUTUBE @FarhanAbyss ";
+	Text = "DIBUAT XNEO                  DIEDIT YOUTUBE @FarhanXYX ";
 	Icon = "rbxthumb://type=Asset&id=102120801537546&w=150&h=150"})
 Duration = 5;
 
