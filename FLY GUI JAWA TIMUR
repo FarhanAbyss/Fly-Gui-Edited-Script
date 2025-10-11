@@ -137,7 +137,7 @@ nowe = false
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "MUMBOL ID";
-	Text = "DIEDIT YOUTUBE @FarhanSASI ";
+	Text = "DIGAWE YOUTUBE @FarhanSASI ";
 	Icon = "rbxthumb://type=Asset&id=102120801537546&w=150&h=150"})
 Duration = 5;
 
