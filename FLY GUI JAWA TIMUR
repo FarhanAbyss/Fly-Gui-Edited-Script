@@ -414,7 +414,7 @@ plus.MouseButton1Down:connect(function()
 end)
 mine.MouseButton1Down:connect(function()
 	if speeds == 1 then
-		speed.Text = 'cannot be less than 1'
+		speed.Text = 'Ra iso ndik ngisore 1'
 		wait(1)
 		speed.Text = speeds
 	else
