@@ -1,11 +1,3 @@
-while true do
-    for i = 1, 25 do
-        print("TOLONG SUBSCRIBE CHANNEL YOUTUBE @FARHANSASI")
-    end
-    
-    task.wait(120) -- tunggu 120 detik (2 menit)
-end
-
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local up = Instance.new("TextButton")
